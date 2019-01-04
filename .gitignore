@@ -1,0 +1,10 @@
+node_modules/
+*.log
+bundle.js
+muZic-*/
+dist/
+!dist/js
+!dist/css
+!dist/fonts
+!dist/img
+.DS_Store
